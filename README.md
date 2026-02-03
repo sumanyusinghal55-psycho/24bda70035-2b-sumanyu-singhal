@@ -1,3 +1,4 @@
+jjnhl;;;;;;;;;;;;;;;;;;;;;;;;;;;'o'/
 Code Explanation
 1. types/index.ts
 This file defines TypeScript types used throughout the application:
